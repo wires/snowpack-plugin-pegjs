@@ -1,0 +1,26 @@
+{
+  "name": "snowpack-plugin-pegjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "snowpack-plugin-pegjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wires/snowpack-plugin-pegjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/wires/snowpack-plugin-pegjs/issues"
+  },
+  "homepage": "https://github.com/wires/snowpack-plugin-pegjs#readme",
+  "dependencies": {
+    "pegjs": "^0.10"
+  },
+  "peerDependencies": {
+    "snowpack": "^2.18"
+  }
+}
